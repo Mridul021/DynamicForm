@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/DynamicForm/static/css/main.31d6cfe0.css",
+    "main.js": "/DynamicForm/static/js/main.789239ec.js",
+    "index.html": "/DynamicForm/index.html",
+    "main.789239ec.js.map": "/DynamicForm/static/js/main.789239ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.789239ec.js"
+  ]
+}
