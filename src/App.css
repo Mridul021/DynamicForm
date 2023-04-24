@@ -1,0 +1,13 @@
+.App {
+    display: flex;
+}
+
+.left-side {
+    flex:1;
+    margin-right: 20px;
+}
+
+.form-preview {
+    flex:1;
+    align-items: center;
+}
