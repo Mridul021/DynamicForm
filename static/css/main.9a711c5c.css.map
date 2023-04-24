@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9a711c5c.css","mappings":"AAAA,KACI,YACJ,CAEA,WACI,QAAM,CACN,iBACJ,CAEA,cAEI,kBAAmB,CADnB,QAEJ","sources":["App.css"],"sourcesContent":[".App {\r\n    display: flex;\r\n}\r\n\r\n.left-side {\r\n    flex:1;\r\n    margin-right: 20px;\r\n}\r\n\r\n.form-preview {\r\n    flex:1;\r\n    align-items: center;\r\n}"],"names":[],"sourceRoot":""}
